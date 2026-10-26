@@ -34,12 +34,4 @@ My goal is to build my web development skills, create projects, and continue gro
 
 
 
-For your web development project, a website builder could be a helpful option.
 
-
-Ad
-Ad options
-
-
-
-Learn more 
