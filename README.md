@@ -21,12 +21,7 @@ I am a lifelong learner developing my technical skills and exploring web develop
 ## My Goals
 My goal is to build my web development skills, create projects, and continue growing personally and professionally.
 
-What to do next:
-1. Click Copy above.
-2. Return to your GitHub README editor.
-3. Select the existing text and replace it with the copied text.
-4. Click Commit changes (usually near the top-right or at the bottom of the editor).
-5. Enter a message such as Update profile README, then confirm the commit.
+
 
 
 
