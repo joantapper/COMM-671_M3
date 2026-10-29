@@ -1,6 +1,6 @@
 # COMM 671_M3
 Front End WEB Development Student 
-# Hi, I'm Joa Tapper! 👋
+# Hi, I'm Joan Tapper! 👋
 
 ## About Me
 I am a lifelong learner developing my technical skills and exploring web development. I bring a strong professional background, attention to detail, problem-solving skills, and a commitment to continuous learning.
